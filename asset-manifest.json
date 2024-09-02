@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-react-app/static/css/main.e6c13ad2.css",
-    "main.js": "/my-react-app/static/js/main.424d5717.js",
-    "static/js/453.ca75318f.chunk.js": "/my-react-app/static/js/453.ca75318f.chunk.js",
-    "index.html": "/my-react-app/index.html",
-    "main.e6c13ad2.css.map": "/my-react-app/static/css/main.e6c13ad2.css.map",
-    "main.424d5717.js.map": "/my-react-app/static/js/main.424d5717.js.map",
-    "453.ca75318f.chunk.js.map": "/my-react-app/static/js/453.ca75318f.chunk.js.map"
+    "main.css": "/educationhub/static/css/main.e6c13ad2.css",
+    "main.js": "/educationhub/static/js/main.6ee590f0.js",
+    "static/js/453.ca75318f.chunk.js": "/educationhub/static/js/453.ca75318f.chunk.js",
+    "index.html": "/educationhub/index.html",
+    "main.e6c13ad2.css.map": "/educationhub/static/css/main.e6c13ad2.css.map",
+    "main.6ee590f0.js.map": "/educationhub/static/js/main.6ee590f0.js.map",
+    "453.ca75318f.chunk.js.map": "/educationhub/static/js/453.ca75318f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.424d5717.js"
+    "static/js/main.6ee590f0.js"
   ]
 }
